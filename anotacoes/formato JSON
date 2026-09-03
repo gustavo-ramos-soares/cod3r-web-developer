@@ -1,0 +1,15 @@
+
+<!-- A estrutura do JSON é baseada em duas formas principais: -->
+
+<!-- Objetos: Coleções desordenadas de pares chave-valor, delimitadas por chaves { }. 
+
+Arrays: Listas ordenadas de valores, delimitadas por colchetes [ ] -->
+
+
+{
+    "Nome": "Gustavo",
+    "Idade": "23",
+    "Altura": "1.70",
+    "Peso": "65kg",
+    "Hobbies": ["Programação", "Estudos"]
+}

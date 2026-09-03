@@ -1,0 +1,12 @@
+## TIPAGEM FRACA
+
+JavaScript permite conversões automáticas entre diferentes tipos de dados.
+
+## TIPAGEM DINÂMICA
+
+O tipo da variável é definido pelo valor e pode mudar durante a execução, sem precisar declarar o tipo.
+
+## TIPAGEM FORTE
+
+A linguagem possui regras mais rígidas entre os tipos, limitando conversões automáticas e operações entre tipos incompatíveis.
+
