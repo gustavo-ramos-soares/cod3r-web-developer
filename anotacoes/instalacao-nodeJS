@@ -1,0 +1,13 @@
+
+<!-- Acesse o site oficial e baixa o executável -->
+
+https://nodejs.org/
+
+<!-- Adicionando node.js no PATH do SO do Windows -->
+
+Acesse: 
+
+    * Editar as Varáveis de Ambiente do Sistema
+    * Varáveis de Ambiente
+    * Path
+    * Novo
